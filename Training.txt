@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Intern Welcome Message</title>
+</head>
+
+<body>
+
+    <!-- 
+    Hey there,
+
+    Just wanted to drop a quick message in this file! I'm happy to be on board as a Software Engineer Intern. Let the coding adventure begin!
+
+    "Hello, World!" because, why not? It's like the initiation ritual for us coders, right? Excited to create some epic code, squash some bugs, and learn the ropes of this Git magic.
+
+    Here's to countless commits, seamless merges, and a codebase that reflects my coding journey. Ready to dive into the world of Git and soak up all the knowledge.
+
+    Let's make this internship legendary! 
+
+    Cheers!
+	Aemzzzz
+    -->
+
+<h1>Hello world!</h1>
+<h1>Hello world 2!</h1>
+
+</body>
+
+</html>
